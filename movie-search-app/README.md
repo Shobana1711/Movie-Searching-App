@@ -7,6 +7,25 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
+## Features
+
+🔍 Search movies by title or keyword
+🎞️ Display movies in a responsive grid layout
+📄 View detailed information for each movie
+📊 Pagination for browsing large results
+🎯 Filter movies by type (Movie / Series / Episode) using API
+⚠️ Error handling for API failures and no results
+🔗 Navigation using React Router
+🎨 Modern UI built with Tailwind CSS
+
+##  Tech Stack
+
+- ReactJS – Frontend library
+- React Router – Navigation
+- Tailwind CSS – Styling
+- JavaScript (ES6+) – Functionality
+- OMDB API – Movie data
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
